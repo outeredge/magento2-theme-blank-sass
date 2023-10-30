@@ -24,4 +24,4 @@ define([
         }
     });
     keyboardHandler.apply();
-});s
+});
