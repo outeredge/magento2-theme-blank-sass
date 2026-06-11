@@ -197,7 +197,7 @@ $h6__margin-bottom              : $heading__margin-bottom__base !default;
 
 $heading__small-color           : $primary__color !default;
 $heading__small-line-height     : 1 !default;
-$heading__small-size            : math.div($font-size__xs, $font-size__base) * 100% !default
+$heading__small-size            : math.div($font-size__xs, $font-size__base) * 100% !default;
 
 //  Code blocks
 $code__background-color         : $panel__background-color !default;
